@@ -1,0 +1,35 @@
+mpg
+Miles/(US) gallon
+
+cyl
+Number of cylinders
+
+disp
+Displacement (cu.in.)
+
+hp
+Gross horsepower
+
+drat
+Rear axle ratio
+
+wt
+Weight (1000 lbs)
+
+qsec
+1/4 mile time
+
+vs
+Engine
+
+am
+Transmission
+
+gear
+Number of forward gears
+
+carb
+Number of carburetors
+
+ids
+car model name
